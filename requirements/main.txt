@@ -1,6 +1,6 @@
 alembic==0.8.6 \
     --hash=sha256:53403da066ef90cbc5a3f801f3dd39bbbfbc41b0a84eb8c1c806243b7e2c6466
-amqp==1.4.9 \
+amqp==2.0.0 \
     --hash=sha256:e0ed0ce6b8ffe5690a2e856c7908dc557e0e605283d6885dd1361d79f2928908 \
     --hash=sha256:2dea4d16d073c902c3b89d9b96620fb6729ac0f7a923bbc777cb4ad827c0c61a
 anyjson==0.3.3 \
@@ -128,7 +128,7 @@ pytz==2016.4 \
     --hash=sha256:c823de61ff40d1996fe087cec343e0503881ca641b897e0f9b86c7683a0bfee1 \
     --hash=sha256:ee7c751544e35a7b7fb5e3fb25a49dade37d51e70a93e5107f10575d7102c311 \
     --hash=sha256:8781cdd3ca70f5a536884e051797ca213b9ff479a5c1cc57240adf37cc1eff1b
-raven==5.18.0 \
+raven==5.19.0 \
     --hash=sha256:2ef837d53b9a6ebd54da8088eee9032a05bb3ec27a7a5caf3dce6c98e1092811 \
     --hash=sha256:5d2890bef22297e0d784a84b113a27aa3bfd86b660c541bc09e035a0b5f730a4
 readme-renderer==0.7.0 \
